@@ -15,7 +15,6 @@ Write, compile, and run C/C++ code — all in one lightweight desktop app.
 ![CodeEditor Screenshot](https://raw.githubusercontent.com/snehal-thombare08/CodeEditor/74b5614bfdaf9b356ab75e1572b162471ba31ced/Screenshot%202026-06-12%20084957.png)
 
 </div>
-
 ---
 
 ## 📖 Table of Contents
